@@ -2,7 +2,7 @@
 import pynput.keyboard
 import threading
 import smtplib
-import os
+import oscf
 import shutil
 import subprocess
 import sys
